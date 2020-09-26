@@ -1,0 +1,14 @@
+Stack Overflow este un site web de întrebări și răspunsuri din domeniul programarii.
+Stack overflow accepta doar intrebari despre programare care sunt strans concentrate pe o anumita problema.
+
+Avem urmatoarele functionalitati:
+
+-Butoanele de "Log in" si "Sign up" pentru crearea contului si logarea pe site
+-Bara de search cu care putem cauta o intrebare deja existenta pe site
+-Optiunea de a cauta intrebari dupa tag-uri
+-principala pagina unde poti sa vizitezi cele mai vizualizate intrebari
+-“Jobs”, locul unde ne putem gasii un loc de munca 
+-Talent Solution: Gasirea candidatului perfect pentru o echipa
+-“Advertising” : folosit pentru a ne promova produsul.
+-utilizatorii pot vedea raspunsurile fara a fi logat, insa pentru a raspunde la intrebari sau pentru a creea o intrebare, este necesara logarea.
+-Validarea raspunsului corect se face prin voturi.
